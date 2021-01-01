@@ -1,5 +1,5 @@
 import project as x 
-#importing the main file("code" is the name of the file I have used) as a library 
+#importing the main file("code" is the name of the file I have used) as a library.
 
 x.create("gmrit",50)
 #to create a key with key_name,value given and with no time-to-live property
