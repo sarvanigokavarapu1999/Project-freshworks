@@ -72,7 +72,7 @@ def modify(key,value):
             print("error: time-to-live of",key,"has expired") 
     else:
         if key not in d:
-            print("error: given key does not exist in database. Please enter a valid key")
+            print("error: given key does not exist in database. Please enter a valid key..")
         else:
             l=[]
             l.append(value)
